@@ -1,0 +1,15 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Machine Learning & Pipelines
+scikit-learn
+imbalanced-learn
+joblib
+
+# User Interface
+streamlit
+
+# Utilities
+python-dateutil
+watchdog
